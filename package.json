@@ -2,7 +2,7 @@
 "name" : "Warrriors Offical Website"
 "version" : "1.0.0",
 "scripts" : {
-    "start" : "node Index.html"
+    "start" : "Index.html"
     },
 
 "author" : "Yung Dagger"
