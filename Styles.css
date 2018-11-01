@@ -1,0 +1,25 @@
+body {
+    background-image: url("Wiki-background.jpg");
+}
+h1 {
+    color: white;
+    text-align: center;
+}
+p {
+    color: white;
+    font-family: verdana;
+    font-size: 20px;
+}
+a {
+color: red;
+}
+h2 {
+color: white;
+text-align: center;
+}
+
+p1 {
+    color: red;
+    font-family: verdana;
+    font-size: 20px;
+}
