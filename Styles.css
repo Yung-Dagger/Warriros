@@ -23,7 +23,7 @@ p1 {
     font-family: verdana;
     font-size: 20px;
 }
-.button {
+button {
     background-color: #4CAF50; /* Green */
     border: none;
     color: white;
