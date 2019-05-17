@@ -1,12 +1,14 @@
 body {
-    background-image: url("Wiki-background.jpg");
+    background-image: url('Cool-White-Background-43-1024x640.jpg');
+    background-size: cover
+
 }
 h1 {
-    color: white;
+    color: black;
     text-align: center;
 }
 p {
-    color: white;
+    color: black;
     font-family: verdana;
     font-size: 20px;
 }
@@ -14,12 +16,13 @@ a {
 color: red;
 }
 h2 {
-color: white;
+color: black;
 text-align: center;
 }
 
 p1 {
     color: red;
+
     font-family: verdana;
     font-size: 20px;
 }
